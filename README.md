@@ -1,86 +1,21 @@
-My_Portfolio
+# My_Portfolio
 
-A modern, responsive full-stack developer portfolio website showcasing my skills, projects, and experience.
+A modern, responsive full-stack portfolio website showcasing my skills, projects, and experience.
 
-🚀 Features
+Built with **React + Vite** on the frontend and **Node.js + Express** on the backend, with optional **MongoDB** support.
 
-Responsive Design – Works smoothly on desktop, tablet, and mobile
+Features include a dark theme, smooth scrolling, responsive design, and interactive sections like About, Skills, Projects, and Contact.
 
-Dark Theme – Clean and modern dark UI
+Clone the repo, install dependencies, and run the frontend and backend locally.
 
-Smooth Navigation – Single-page application with smooth scrolling
+Frontend runs on **http://localhost:5173** and backend on **http://localhost:5000**.
 
-Interactive Sections
+The contact form supports backend integration for message storage.
 
-Hero – Introduction and call-to-action
+Content is easy to customize through simple data files.
 
-About – Personal background and summary
+Optimized for performance and clean UI/UX.
 
-Experience – Professional work history
+Open-source and licensed under **MIT**.
 
-Projects – Key projects with links
-
-Skills – Technical skills and competencies
-
-Education – Academic background
-
-Certifications – Professional certifications
-
-Contact – Contact form and social links
-
-Contact Form – Backend-integrated form (MongoDB optional)
-
-Fast Loading – Built with Vite for optimal performance
-
-🛠️ Tech Stack
-Frontend
-
-React – Component-based UI library
-
-Vite – Fast build tool and dev server
-
-CSS – Custom responsive styling
-
-Backend
-
-Node.js – JavaScript runtime
-
-Express.js – Web framework
-
-MongoDB – NoSQL database (optional, for contact form storage)
-
-📋 Prerequisites
-
-Node.js (v16 or higher)
-
-npm or yarn
-
-MongoDB (optional)
-
-
-📖 Usage
-
-Navigate through sections using the navbar
-
-Explore projects and open live demos or repositories
-
-Submit messages via the contact form (backend required)
-
-Update your personal content in data.js
-
-🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repository and submit a Pull Request.
-
-📄 License
-
-This project is licensed under the MIT License.
-
-📞 Contact
-
-Jaya Hareeswar Reddy
-
-LinkedIn: jayahareeswarreddy
-
-GitHub: jayahareeswarreddy
+⭐ Star the repo if you like it!
